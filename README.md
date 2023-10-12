@@ -1,4 +1,4 @@
-### Hello
+### Hi, I'm Joo Seung Heon
 
 <!--
 **heonjs/heonjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
