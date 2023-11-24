@@ -12,4 +12,4 @@
 
 ### Tools
 
-![GitHub](https://img.shields.io/badge/github.svg?&style=for-the-badge&logo=C&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
